@@ -39,3 +39,8 @@ h5,
 h6 {
   margin: 0 0 5px 0;
 }
+
+.cred a,
+.cred a:visited {
+  color: white;
+}
